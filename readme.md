@@ -1,6 +1,6 @@
-# test
+# Repository do nauki
+Repository przeznaczone do gromadzenia projektów i nauki systemu kontroli wersji. W folderach znajdują się projekty, które tworzyłem z kursami i poradnikami.
 
-# test 2
-
-# test 3
-[test](https://www.youtube.com/)
+# Źródła mojej naukii
+• Git i GitHub
+    • [Tech With Tim](https://www.youtube.com/watch?v=DVRQoVRzMIY&t)
